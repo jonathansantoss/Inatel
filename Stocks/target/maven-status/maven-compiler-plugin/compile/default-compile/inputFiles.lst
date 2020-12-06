@@ -1,0 +1,10 @@
+/home/jonathan/Documentos/Stocks/src/main/java/com/inatel/Stocks/Model/Stocks.java
+/home/jonathan/Documentos/Stocks/src/main/java/com/inatel/Stocks/Service/StocksService.java
+/home/jonathan/Documentos/Stocks/src/main/java/com/inatel/Stocks/StocksApplication.java
+/home/jonathan/Documentos/Stocks/src/main/java/com/inatel/Stocks/Dtos/StocksResponse.java
+/home/jonathan/Documentos/Stocks/src/main/java/com/inatel/Stocks/Repository/StocksRepository.java
+/home/jonathan/Documentos/Stocks/src/main/java/com/inatel/Stocks/Controller/StocksController.java
+/home/jonathan/Documentos/Stocks/src/main/java/com/inatel/Stocks/Dtos/QuotesResponse.java
+/home/jonathan/Documentos/Stocks/src/main/java/com/inatel/Stocks/Dtos/StocksRequest.java
+/home/jonathan/Documentos/Stocks/src/main/java/com/inatel/Stocks/Dtos/QuotesRequest.java
+/home/jonathan/Documentos/Stocks/src/main/java/com/inatel/Stocks/Model/Quotes.java

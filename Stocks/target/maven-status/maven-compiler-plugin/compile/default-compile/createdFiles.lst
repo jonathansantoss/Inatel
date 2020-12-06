@@ -1,0 +1,16 @@
+com/inatel/Stocks/Model/Quotes$QuotesBuilder.class
+com/inatel/Stocks/Model/Stocks.class
+com/inatel/Stocks/Service/StocksService.class
+com/inatel/Stocks/Repository/StocksRepository.class
+com/inatel/Stocks/Controller/StocksController.class
+com/inatel/Stocks/Dtos/StocksRequest.class
+com/inatel/Stocks/Model/Quotes.class
+com/inatel/Stocks/Dtos/StocksRequest$StocksRequestBuilder.class
+com/inatel/Stocks/Dtos/StocksResponse$StocksResponseBuilder.class
+com/inatel/Stocks/Dtos/QuotesRequest$QuotesRequestBuilder.class
+com/inatel/Stocks/Dtos/QuotesResponse.class
+com/inatel/Stocks/StocksApplication.class
+com/inatel/Stocks/Dtos/StocksResponse.class
+com/inatel/Stocks/Dtos/QuotesResponse$QuotesResponseBuilder.class
+com/inatel/Stocks/Dtos/QuotesRequest.class
+com/inatel/Stocks/Model/Stocks$StocksBuilder.class

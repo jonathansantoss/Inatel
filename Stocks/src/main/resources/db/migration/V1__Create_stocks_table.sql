@@ -1,0 +1,18 @@
+create table STOCKS (
+    ID int not null,
+    QUOTES_ID int not null,
+    NAME varchar(100) not null
+);
+
+create table QUOTES (
+    ID int not null,
+    NAME varchar(100) not null
+);
+
+ALTER TABLE STOCKS ADD PRIMARY KEY(ID);
+ALTER TABLE QUOTES ADD PRIMARY KEY(ID);
+
+ALTER TABLE STOCKS ADD CONSTRAINT fk_stocks_quotes FOREIGN KEY (QUOTES_ID) REFERENCES QUOTES (ID);
+
+CREATE SEQUENCE SQ_STOCKS INCREMENT 1 START 1;
+CREATE SEQUENCE SQ_QUOTES INCREMENT 1 START 1;
